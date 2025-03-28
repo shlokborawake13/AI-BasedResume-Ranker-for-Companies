@@ -1,0 +1,30 @@
+MICHAEL CHEN
+Frontend Developer
+michael.chen@email.com | (555) 234-5678
+
+SUMMARY
+Creative frontend developer with 4 years of experience building responsive and user-friendly web applications. Passionate about creating exceptional user experiences.
+
+SKILLS
+- Programming: JavaScript, HTML5, CSS3
+- Frameworks: React, Vue.js, Angular
+- Tools: Webpack, Babel, ESLint
+- Design: Figma, Adobe XD
+- Testing: Jest, Cypress
+
+EXPERIENCE
+Frontend Developer | WebTech Solutions | 2021-Present
+- Built responsive web applications using React
+- Implemented state management with Redux
+- Improved page load times by 45%
+
+UI Developer | Creative Digital | 2019-2021
+- Developed UI components using Vue.js
+- Collaborated with UX designers
+- Maintained component library
+
+EDUCATION
+Bachelor of Arts in Web Design
+Art Institute | 2015-2019
+- Focus on UI/UX Design
+- Minor in Computer Science

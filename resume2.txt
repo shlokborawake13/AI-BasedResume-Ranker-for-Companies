@@ -1,0 +1,30 @@
+SARAH SMITH
+Data Scientist
+sarah.smith@email.com | (555) 987-6543
+
+SUMMARY
+Data scientist with 3 years of experience specializing in machine learning, statistical analysis, and data visualization. Proven track record of delivering actionable insights from complex datasets.
+
+SKILLS
+- Programming: Python, R, SQL
+- Machine Learning: PyTorch, scikit-learn, XGBoost
+- Data Analysis: Pandas, NumPy, Matplotlib
+- Big Data: Spark, Hadoop
+- Cloud: Google Cloud Platform
+
+EXPERIENCE
+Data Scientist | AI Innovations | 2022-Present
+- Developed predictive models achieving 92% accuracy
+- Created data pipelines processing 1TB+ daily
+- Implemented NLP solutions for text classification
+
+Junior Data Scientist | Analytics Co | 2020-2022
+- Performed A/B testing and statistical analysis
+- Built dashboards using Tableau
+- Automated reporting processes saving 10 hours weekly
+
+EDUCATION
+Master of Science in Data Science
+MIT | 2018-2020
+- GPA: 3.9/4.0
+- Thesis: Deep Learning for Time Series Prediction

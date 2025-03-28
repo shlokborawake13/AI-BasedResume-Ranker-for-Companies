@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Resume Ranker</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>AI Resume Ranker</h1>
+        </div>
+    </header>
+
+    <div class="container">
+        <div class="upload-section">
+            <div class="job-description">
+                <h2>Job Description</h2>
+                <textarea id="jobDescription" placeholder="Paste the job description here..."></textarea>
+            </div>
+
+            <h2>Upload Resumes</h2>
+            <div id="dropZone" class="resume-upload">
+                <p>Drag and drop resume files here or click to browse</p>
+                <input type="file" id="fileInput" multiple accept=".pdf,.docx" style="display: none;">
+                <ul id="fileList"></ul>
+            </div>
+
+            <div style="margin-top: 20px; text-align: center;">
+                <button id="submitButton" class="button">Analyze Resumes</button>
+            </div>
+
+            <div id="errorMessage" class="error-message"></div>
+        </div>
+
+        <div id="loading" class="loading">
+            <div class="loading-spinner"></div>
+            <p>Analyzing resumes...</p>
+        </div>
+
+        <div id="results" class="results-section">
+            <h2>Results</h2>
+            <div id="candidatesList"></div>
+        </div>
+    </div>
+
+    <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+</body>
+</html>
